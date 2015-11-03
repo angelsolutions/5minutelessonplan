@@ -17,6 +17,6 @@ encoding: utf-8
 highlighter: rouge
 permalink: /:year/:month/:title
 paginate: 10
-exclude: ["README.md" "node_modules", "app-js", "angelsass", "secrets.json"]
+exclude: ["README.md","node_modules", "app-js", "angelsass", "secrets.json"]
 sass:
     style: :nested
