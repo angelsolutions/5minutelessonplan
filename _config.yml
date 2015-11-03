@@ -1,0 +1,22 @@
+# Site settings
+title: 5 Minute Lesson Plan Help
+email: perspectivesupport@angelsoltions.co.uk
+description: > # Help documents for the https://www.5minutelessonplan.co.uk/
+
+baseurl: "/5minutelessonplan" # the base hostname & protocol for your site
+
+# For local development use
+# jekyll build --watch
+
+# If you want to see drafts
+# jekyll build --watch --drafts
+
+# Build settings
+markdown: kramdown
+encoding: utf-8
+highlighter: rouge
+permalink: /:year/:month/:title
+paginate: 10
+exclude: ["README.md" "node_modules", "app-js", "angelsass", "secrets.json"]
+sass:
+    style: :nested
