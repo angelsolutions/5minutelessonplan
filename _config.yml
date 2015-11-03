@@ -14,7 +14,6 @@ baseurl: "/5minutelessonplan" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 encoding: utf-8
-highlighter: rouge
 permalink: /:year/:month/:title
 paginate: 10
 exclude: ["README.md","node_modules", "app-js", "angelsass", "secrets.json"]
