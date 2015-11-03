@@ -11,6 +11,8 @@ baseurl: "/5minutelessonplan" # the base hostname & protocol for your site
 # If you want to see drafts
 # jekyll build --watch --drafts
 
+# jekyll serve --watch --baseurl ""
+
 # Build settings
 markdown: kramdown
 encoding: utf-8
