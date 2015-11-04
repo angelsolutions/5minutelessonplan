@@ -12,7 +12,7 @@ You can access the 5 Minute Lesson Plan via [Perspective](http://www.angelsoluti
 
 The Five Minute Lesson Plan homepage contains all the options you need to begin searching, creating or printing your plans. For instructions into how to create a plan then you can check out the [Create a Plan section of this document](#create).
 
-![alt text]({{site.baseurl}}/images/home.jpg "The 5 Minute Lesson Plan Homepage")
+![alt text](http://www.angelsolutions.co.uk/cdn/images/5mlp/home.jpg "The 5 Minute Lesson Plan Homepage")
 
 All plans that you are able to access will be contained within the six tabs on your 5MLP homepage;
 
@@ -32,7 +32,7 @@ Once you have quite a number of plans appearing on your Homepage, then it may be
 
 You can use the **Manage Tags** option on the Homepage to create your own tags. You can also view a list of all of the global tags that are available to you. Click **Add a new Tag** to create one and **Save**. You can edit and delete your own tags at any time but you can’t edit or delete global tags.
 
-![alt text]({{site.baseurl}}/images/tags.jpg "Plan Tags")
+![alt text](http://www.angelsolutions.co.uk/cdn/images/5mlp/tags.jpg "Plan Tags")
 
 ## Create a Plan <a id="create"></a>
 To create a plan, from the 5MLP homepage click on Create New. You will then begin the plan wizard which will prompt you to name your plan and add a description, when you have done this, click next. Continue filling out each section as you get to them. To find out more about what content to add into a section, click the **blue** <span class="entypo--info-circled"></span> **icon** alongside the section heading. This will open a new pop-out window which describes in more detail what you should be looking to add.
@@ -41,12 +41,12 @@ Once you have filled in the nine main sections, you have two additional sections
 
 You can save your plan at any time by using the Save button. Any saved plans will appear in the Me tab on the 5MLP Homepage, or if you decide to share the plan then it will be available within your Teams, School or Community tabs (depending on who you shared the plan with). Clicking on the Print button gives you the option to open and print the current lesson plan. Alternatively you can save a PDF copy of your plan to your computer.
 
-![alt text]({{site.baseurl}}/images/print-and-save.jpg "Print and Save buttons")
+![alt text](http://www.angelsolutions.co.uk/cdn/images/5mlp/print-and-save.jpg "Print and Save buttons")
 
 <h2 id="spash">Splash Page</h2>
 Once you have saved your plan it will become available on your Homepage under the relevant tab. To access your Plan Dashboard or Splash Page, click on the plan.
 
-![alt text]({{site.baseurl}}/images/splash.jpg "A plan's splash page")
+![alt text](http://www.angelsolutions.co.uk/cdn/images/5mlp/splash.jpg "A plan's splash page")
 
 The dashboard shows you the basic information about the plan including who created it, when it was created, the school name, when the plan was last updated and how many views the plan has received. You can favourite a plan from this page by clicking the gold star alongside the **Favourite** row.
 
