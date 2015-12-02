@@ -8,7 +8,7 @@ The 5 minute lesson plan was developed by [Teacher Toolkit](http://teachertoolki
 
 You can access the 5 Minute Lesson Plan via [Perspective](http://www.angelsolutions.co.uk/products/perspective) and [Perspective Lite](http://www.angelsolutions.co.uk/products/perspective/lite). To do this, simply [log in](https://perspective.angelsolutions.co.uk/perspective/login.aspx) and hover your cursor over the **Tools** icon on your main navigation bar before selecting **5 Min Lesson Plan**. You can also see the 5 Minute Lesson Plan page via your Perspective dashboard. There are quick links to create or print plans, or a direct link to the main 5 Minute Lesson Plan area.
 
-## Homepage <a id="homepage"></a>
+## <a id="homepage"></a> Homepage
 
 The Five Minute Lesson Plan homepage contains all the options you need to begin searching, creating or printing your plans. For instructions into how to create a plan then you can check out the [Create a Plan section of this document](#create).
 
