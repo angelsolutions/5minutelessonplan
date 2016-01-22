@@ -1,5 +1,6 @@
 <header class="page-header">
     <div class="page-width">
+        {% if page.psp-test == null %}
         <div class="grid">
             <div class="grid__item two-thirds below-desk-one-whole">
                 <div class="js-nav-toggle beta visuallyhidden--desk float--left soft-half--top">
@@ -13,5 +14,20 @@
                 </div>
             </div>
         </div>
+        {% else %}
+        <div class="grid">
+            <div class="grid__item two-thirds below-desk-one-whole">
+                <div class="js-nav-toggle beta visuallyhidden--desk float--left soft-half--top">
+                    <span class="entypo--menu"></span>
+                </div>
+                <a href="https://perspective.angelsolutions.co.uk/perspective/login.aspx" class="one-whole below-desk-one-half"><img src="https://perspective.angelsolutions.co.uk/Perspective/Images/Logos/perspective-logo.jpg" alt="Perspective"></a>
+            </div><!--
+         --><div class="grid__item one-third visuallyhidden--below-desk">
+                <div class="text--right">
+                    <img class="push--top" src="https://perspective.angelsolutions.co.uk/Perspective/Images/Logos/angel-logo.jpg" alt="Angel Solutions Limited">
+                </div>
+            </div>
+        </div>
+        {% endif %}
     </div>
 </header> <!--End page-header -->
