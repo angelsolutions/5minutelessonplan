@@ -32,6 +32,10 @@ To do this:
 
 ![alt text](http://www.angelsolutions.co.uk/assets/images/perspective/observations/observation-create-new-template.jpg)
 
+You can now start to build your very own template by completing the folloowing steps:
+
+1. Name your monitoring form (e.g. your school name, followed by the type of monitoring) and press **save**
+
 **Teams:** This contains all of the lesson plans which have been created by yourself or other members of any teams that you are also a member of. The sharing status for lesson plans must be either <q>School Only</q> or ‘Community’ for them to appear here.
 
 **School:** This contains all of the lesson plans which have been created by yourself or other 5MLP users who are in your school. The sharing status for lesson plans must be either <q>School Only</q> or ‘Community’ for them to appear here.
