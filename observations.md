@@ -14,7 +14,7 @@ In Perspective, you have access to some default templates available for you to u
 To view these, click on the **All Templates** underneath the **Admin** section. This will list all of the templates you have available in Perspective by default. 
 To preview any of these proformas, click the **preview screen** (the screen symbol next to the print icon)
 
-![alt text](http://www.angelsolutions.co.uk/assets/images/Perspective/Observations/observations-preview-screen.jpg)
+![alt text](http://www.angelsolutions.co.uk/assets/images/perspective/observations/observations-preview-screen.jpg)
 This will show you the judgements included in the monitoring form, the grade scale used and benchmarking statements. To view the benchmarking descriptors, hover over the grade circles. 
 
 ![alt text](http://www.angelsolutions.co.uk/assets/images/Perspective/Observations/observations-example-template.jpg)
