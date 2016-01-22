@@ -8,9 +8,9 @@ The [Observations](http://www.angelsolutions.co.uk/products/perspective/testimon
 
 To access the **Observations** module, login to your [Perspective Account](https://perspective.angelsolutions.co.uk/perspective/login.aspx), hover over the **Performance Management** module on the blue navigational bar at the top and select **Observations** from the drop-down menu. 
 
-## <a id="homepage"></a> Homepage
+## How to Preview Observation Templates
 
-The Five Minute Lesson Plan homepage contains all the options you need to begin searching, creating or printing your plans. For instructions into how to create a plan then you can check out the [Create a Plan section of this document](#create).
+In Perspective, you have access to some default templates available for you to use staightaway. To view these, click on the **All Templates** underneath the **Admin** section. This will list all of the templates you have available in Perspective by default. To preview any of these proformas, click the **preview screen** (the screen symbol next to the print icon) [Create a Plan section of this document](#create).
 
 ![alt text](http://www.angelsolutions.co.uk/assets/images/5mlp/home.jpg "The 5 Minute Lesson Plan Homepage")
 
