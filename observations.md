@@ -6,7 +6,7 @@ title: Perspective Observations
 # Observations
 The [Observations](http://www.angelsolutions.co.uk/products/perspective/testimonials/#) module is designed to record all forms of monitoring in [Perspective](http://www.angelsolutions.co.uk/products/perspective), allowing you to trend teacher performance over time. 
 
-You can access the 5 Minute Lesson Plan via [Perspective](http://www.angelsolutions.co.uk/products/perspective) and [Perspective Lite](http://www.angelsolutions.co.uk/products/perspective/lite). To do this, simply [log in](https://perspective.angelsolutions.co.uk/perspective/login.aspx) and hover your cursor over the **Tools** icon on your main navigation bar before selecting **5 Min Lesson Plan**. You can also see the 5 Minute Lesson Plan page via your Perspective dashboard. There are quick links to create or print plans, or a direct link to the main 5 Minute Lesson Plan area.
+To access the **Observations** module, login to your [Perspective Account](https://perspective.angelsolutions.co.uk/perspective/login.aspx), hover over the **Performance Management** module on the blue navigational bar at the top and select **Observations** from the drop-down menu. 
 
 ## <a id="homepage"></a> Homepage
 
