@@ -20,8 +20,10 @@ This will show you the judgements included in the monitoring form, the grade sca
 
 ![alt text](http://www.angelsolutions.co.uk/assets/images/perspective/observations/observations-example-template.jpg)
 
-**Me:** Holds all the lesson plans which have been created by you or that you have cloned. You can set your lesson plans’ **Sharing Status** from this tab.
-
+## **How to Create your Own Monitoring forms**
+The Observations module is designed to be as customisable to your school as you want to be, allowing you to create your own monitoring forms. 
+To do this:
+*Go back to your **Observations Dashboard** (hover over Performance Management and click on Observations)
 **Teams:** This contains all of the lesson plans which have been created by yourself or other members of any teams that you are also a member of. The sharing status for lesson plans must be either <q>School Only</q> or ‘Community’ for them to appear here.
 
 **School:** This contains all of the lesson plans which have been created by yourself or other 5MLP users who are in your school. The sharing status for lesson plans must be either <q>School Only</q> or ‘Community’ for them to appear here.
