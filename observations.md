@@ -15,7 +15,7 @@ To view these, click on the **All Templates** underneath the **Admin** section. 
 To preview any of these proformas, click the **preview screen** (the screen symbol next to the print icon)
 
 ![alt text](http://www.angelsolutions.co.uk/assets/images/Perspective/Observations/observations-preview-screen.jpg)
-All plans that you are able to access will be contained within the six tabs on your 5MLP homepage;
+This will show you the judgements included in the monitoring form, the grade scale used and benchmarking statements. To view the benchmarking descriptors, hover over the grade circles. 
 
 **Me:** Holds all the lesson plans which have been created by you or that you have cloned. You can set your lesson plans’ **Sharing Status** from this tab.
 
