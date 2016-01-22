@@ -24,11 +24,11 @@ This will show you the judgements included in the monitoring form, the grade sca
 The Observations module is designed to be as customisable to your school as you want to be, allowing you to create your own monitoring forms. 
 To do this:
 
-..Go back to your **Observations Dashboard** (hover over Performance Management and click on Observations)
+1. Go back to your **Observations Dashboard** (hover over Performance Management and click on Observations)
 
-..Click on **All Templates** underneath the Admin section
+2. Click on **All Templates** underneath the Admin section
 
-..Select **New Template** and **Create a brand New Template**
+3. Select **New Template** and **Create a brand New Template**
 
 **Teams:** This contains all of the lesson plans which have been created by yourself or other members of any teams that you are also a member of. The sharing status for lesson plans must be either <q>School Only</q> or ‘Community’ for them to appear here.
 
