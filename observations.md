@@ -30,6 +30,8 @@ To do this:
 
 3. Select **New Template** and **Create a brand New Template**
 
+![alt text](http://www.angelsolutions.co.uk/assets/images/perspective/observations/observation-create-new-template.jpg)
+
 **Teams:** This contains all of the lesson plans which have been created by yourself or other members of any teams that you are also a member of. The sharing status for lesson plans must be either <q>School Only</q> or ‘Community’ for them to appear here.
 
 **School:** This contains all of the lesson plans which have been created by yourself or other 5MLP users who are in your school. The sharing status for lesson plans must be either <q>School Only</q> or ‘Community’ for them to appear here.
