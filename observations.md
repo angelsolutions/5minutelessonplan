@@ -17,6 +17,8 @@ To preview any of these proformas, click the **preview screen** (the screen symb
 ![alt text](http://www.angelsolutions.co.uk/assets/images/Perspective/Observations/observations-preview-screen.jpg)
 This will show you the judgements included in the monitoring form, the grade scale used and benchmarking statements. To view the benchmarking descriptors, hover over the grade circles. 
 
+![alt text](http://www.angelsolutions.co.uk/assets/images/Perspective/Observations/observations-example-template.jpg)
+
 **Me:** Holds all the lesson plans which have been created by you or that you have cloned. You can set your lesson plans’ **Sharing Status** from this tab.
 
 **Teams:** This contains all of the lesson plans which have been created by yourself or other members of any teams that you are also a member of. The sharing status for lesson plans must be either <q>School Only</q> or ‘Community’ for them to appear here.
